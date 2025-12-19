@@ -1,4 +1,4 @@
-# Coffee Sales Dashboard
+# Coffee Shop Sales Dashboard
 
 This dashboard highlights sales performance for a coffee shop chain from Jan–Jun 2023, making it easy for managers to understand trends across time, stores, and product categories.
 
