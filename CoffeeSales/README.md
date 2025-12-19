@@ -1,5 +1,4 @@
 # Coffee Sales Dashboard
-Power BI dashboard analyzing coffee shop sales.
 
 This dashboard highlights sales performance for a coffee shop chain from Jan–Jun 2023, making it easy for managers to understand trends across time, stores, and product categories.
 
