@@ -11,7 +11,7 @@ This dashboard helps a retailer to analyze customer behaviors in 4 Christmas sea
 
 <img width="1236" height="687" alt="image" src="https://github.com/user-attachments/assets/17f47ec7-c4d4-4848-a2a9-8cfa387fd891" />
 
-<img width="1251" height="696" alt="image" src="https://github.com/user-attachments/assets/1df17584-7960-4945-bb12-cdc471dcf395" />
+<img width="1481" height="825" alt="image" src="https://github.com/user-attachments/assets/95d057db-eee5-402b-8019-4252861f4e0e" />
 
   
 
