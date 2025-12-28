@@ -9,7 +9,7 @@ This dashboard helps a retailer to analyze customer behaviors in 4 Christmas sea
 - Pricing: Despite higher prices, children’s products lead in sales quantity, with over 12 thousand units sold for each product over the past 4 Christmas seasons. Among products for adults, unit price variation did not significantly affect quantity sold (around 6-7 thousand units per product).
 - Shopping timing: December was the busiest month for Christmas gift shopping, with doubling sales as compared to November and January. In-store shopping dominated December, accounting for 77% in sales, making it an excellent time for in-store promotions.
 
-<img width="1236" height="687" alt="image" src="https://github.com/user-attachments/assets/17f47ec7-c4d4-4848-a2a9-8cfa387fd891" />
+<img width="1310" height="732" alt="image" src="https://github.com/user-attachments/assets/0ff2f102-e102-4ea9-bf23-466fea7f75b3" />
 
 <img width="1481" height="825" alt="image" src="https://github.com/user-attachments/assets/95d057db-eee5-402b-8019-4252861f4e0e" />
 
